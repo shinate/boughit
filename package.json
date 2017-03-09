@@ -3,6 +3,21 @@
   "version": "1.0.1",
   "description": "shinate's core lib",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shinate",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinate/boughit.git"
+  },
+  "keywords": [
+    "core"
+  ],
+  "bugs": {
+    "url": "https://github.com/shinate/boughit/issues"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
@@ -17,9 +32,5 @@
     "vinyl-named": "^1.1.0",
     "webpack-stream": "^3.2.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "homepage": "https://github.com/shinate/boughit#readme"
 }
