@@ -1,6 +1,6 @@
 {
   "name": "boughit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "shinate's core lib",
   "main": "index.js",
   "scripts": {
